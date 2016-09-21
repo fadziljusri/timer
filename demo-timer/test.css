@@ -1,6 +1,6 @@
 body{
 	text-align: center;
-	background-image: url("boboboi.jpg");
+	background-image: url("background.jpg");
 	background-repeat: no-repeat;
     background-size: cover;
   font-family: sans-serif;
@@ -8,13 +8,13 @@ body{
 }
 
 h1{
-  color: #fb0a0a;
+  color: cyan;
   font-weight: 100;
   font-size: 40px;
   margin: 40px 0px 20px;
 }
 h5{
-  color: #fbec0a;
+  color: white;
   font-weight: 900;
   font-size: 30px;
   margin: 40px 0px 20px;
